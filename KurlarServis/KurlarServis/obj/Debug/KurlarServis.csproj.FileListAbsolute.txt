@@ -1,0 +1,7 @@
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\KurlarServis\KurlarServis\bin\KurlarServis.dll.config
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\KurlarServis\KurlarServis\bin\KurlarServis.dll
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\KurlarServis\KurlarServis\bin\KurlarServis.pdb
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.csproj.AssemblyReference.cache
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.csproj.CoreCompileInputs.cache
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.dll
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\KurlarServis\KurlarServis\obj\Debug\KurlarServis.pdb
